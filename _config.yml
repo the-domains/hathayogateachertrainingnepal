@@ -1,0 +1,28 @@
+name: hathayogateachertrainingnepal
+favicon: null
+layout_spectrum: 0.9309448073618114
+typography_spectrum: 0.27813760726712644
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6607653298415244
+  lightness: 0.9868452257942408
+  saturation: 0.5592425526119769
+  rhythmicContrast: 0.16935300850309432
+purpose: []
